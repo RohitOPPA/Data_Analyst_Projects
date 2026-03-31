@@ -76,8 +76,18 @@ This analysis helps to:
 
 ## 📊 Sample Visualizations  
 
-<!-- Add your screenshots here -->
-![Dashboard](https://via.placeholder.com/800x400.png?text=Add+Your+Visualization+Here)
+## 📊 Sample Visualizations
+
+### 📈 Price Analysis
+![Price Chart](chart1.png)
+
+### 🏙 Neighborhood Analysis
+![Neighborhood Chart](chart2.png)
+
+### New Hosts Vs Price Over Time
+Impact_on_Sales.png
+
+
 
 ---
 
