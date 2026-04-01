@@ -78,7 +78,7 @@ This analysis helps to:
 
 
 ### New Hosts Vs Price Over Time
-https://github.com/RohitOPPA/AirBnB-Data-Analysis/blob/main/New_Host_Over_Time.png
+https://github.com/RohitOPPA/AirBnB-Data-Analysis/blob/main/Impact_on_Sales.png
 
 ---
 
