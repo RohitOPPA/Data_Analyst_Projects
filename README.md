@@ -76,16 +76,9 @@ This analysis helps to:
 
 ## 📊 Sample Visualizations
 
-### 📈 Price Analysis
-![Price Chart](chart1.png)
-
-### 🏙 Neighborhood Analysis
-![Neighborhood Chart](chart2.png)
 
 ### New Hosts Vs Price Over Time
 https://github.com/RohitOPPA/AirBnB-Data-Analysis/blob/main/New_Host_Over_Time.pn
-
-
 
 ---
 
